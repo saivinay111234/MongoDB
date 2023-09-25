@@ -1,0 +1,23 @@
+[
+     {
+          "_id": "setosa",
+          "Avg sepal length": 5.006,
+          "Avg sepal width": 3.428,
+          "Avg petal length": 1.462,
+          "Avg petal width": 0.24600000000000002
+     },
+     {
+          "_id": "versicolor",
+          "Avg sepal length": 5.936,
+          "Avg sepal width": 2.77,
+          "Avg petal length": 4.26,
+          "Avg petal width": 1.3259999999999998
+     },
+     {
+          "_id": "virginica",
+          "Avg sepal length": 6.587999999999999,
+          "Avg sepal width": 2.9739999999999998,
+          "Avg petal length": 5.5520000000000005,
+          "Avg petal width": 2.026
+     }
+]
